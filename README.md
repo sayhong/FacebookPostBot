@@ -1,4 +1,4 @@
-# FacebookPostBot
+# FacebookPostBot Facebook自動發文機
 Auto post your photo and words to facebook, and read facebook as human for new account.
 
 
